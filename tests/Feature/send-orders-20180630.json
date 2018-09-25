@@ -1,0 +1,24 @@
+[
+  {
+    "order_code": "1111-1111-1111-1113",
+    "order_date": "2018-06-30 00:00:00",
+    "total_quantity": 1,
+    "total_price": 2000,
+    "customer_name": "\u5948\u826f \u6b21\u90ce",
+    "customer_email": "nara@example.com",
+    "destination_name": "\u9001\u4ed8\u5148 \u6b21\u90ce",
+    "destination_zip": "1234567",
+    "destination_prefecture": "\u5948\u826f\u770c",
+    "destination_address": "\u9001\u4ed8\u5148\u4f4f\u62403",
+    "destination_tel": "0742-0000-0000",
+    "order_details": [
+      {
+        "detail_no": 1,
+        "item_name": "\u5546\u54c13",
+        "item_price": 2000,
+        "quantity": 1,
+        "subtotal_price": 2000
+      }
+    ]
+  }
+]

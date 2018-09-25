@@ -1,0 +1,53 @@
+[
+  {
+    "order_code": "1111-1111-1111-1111",
+    "order_date": "2018-06-29 00:00:00",
+    "total_quantity": 1,
+    "total_price": 1000,
+    "customer_name": "\u5927\u962a \u592a\u90ce",
+    "customer_email": "osaka@example.com",
+    "destination_name": "\u9001\u4ed8\u5148 \u592a\u90ce",
+    "destination_zip": "1234567",
+    "destination_prefecture": "\u5927\u962a\u5e9c",
+    "destination_address": "\u9001\u4ed8\u5148\u4f4f\u62401",
+    "destination_tel": "06-0000-0000",
+    "order_details": [
+      {
+        "detail_no": 1,
+        "item_name": "\u5546\u54c11",
+        "item_price": 1000,
+        "quantity": 1,
+        "subtotal_price": 1000
+      }
+    ]
+  },
+  {
+    "order_code": "1111-1111-1111-1112",
+    "order_date": "2018-06-29 23:59:59",
+    "total_quantity": 3,
+    "total_price": 2500,
+    "customer_name": "\u795e\u6238 \u82b1\u5b50",
+    "customer_email": "kobe@example.com",
+    "destination_name": "\u9001\u4ed8\u5148 \u592a\u90ce",
+    "destination_zip": "1234567",
+    "destination_prefecture": "\u5175\u5eab\u770c",
+    "destination_address": "\u9001\u4ed8\u5148\u4f4f\u62402",
+    "destination_tel": "078-0000-0000",
+    "order_details": [
+      {
+        "detail_no": 1,
+        "item_name": "\u5546\u54c11",
+        "item_price": 1000,
+        "quantity": 2,
+        "subtotal_price": 2000
+      },
+      {
+        "detail_no": 2,
+        "item_name": "\u5546\u54c12",
+        "item_price": 500,
+        "quantity": 1,
+        "subtotal_price": 500
+      }
+    ]
+  }
+]
