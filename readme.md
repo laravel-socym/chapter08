@@ -52,12 +52,13 @@
 
 ## Usage
 
-* 本章サンプルコードは、Homestead で動作するようになっています。
-* 実行する際は、Homestead のインストールを行って後に下記の手順で設定して下さい。
+* 本章サンプルコードは、Homestead で動作します。
+* 実行する際は、Homestead のインストールを行った後に下記の手順を実行して下さい。
 
 ```
 $ git clone https://github.com/laravel-socym/chapter08.git
 $ cd chapter08
+$ cp -a .env.example .env
 $ composer install
 $ ./vendor/bin/homestead make
 $ vagrant up
