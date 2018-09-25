@@ -1,4 +1,4 @@
-# PHPフレームワーク Laravel Webアプリケーション開発 - chapter 08 サンプルコード
+# PHPフレームワーク Laravel Webアプリケーション開発 - chapter08 サンプルコード
 
 ## 対応
 
